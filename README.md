@@ -4,9 +4,9 @@
 
 ## Metas
 - Develop troubleshooting and computer logic
-- Explore new tecnologies and learn tools and languages
-- Getting into another projects (for experience and team working skills)
-- Working in the programming area
+- Explore new tecnologies and learn new tools and languages
+- Get into another projects (for experience and team working skills)
+- Work in the programming area
 - Finish my Computer Science Course
 
 ## Interests
