@@ -1,5 +1,5 @@
 # About Me
-<p> Hi, I'm Matheus (Mazz) Akira, and currently i'm studying Computer Science on Braz Cubas </p>
+<p> Hi, I'm Matheus (Mazz) Akira, and i'm currently studying Computer Science on Braz Cubas </p>
 <p> Down below is my metas, interests, languages, and tools:</p>
 
 ## Metas
