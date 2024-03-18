@@ -22,7 +22,7 @@
 )<br>
 ![NODE](https://img.shields.io/badge/NODE-badge?style=for-the-badge&logo=node.js&logoColor=green&color=black
 )<br>
-![RUBY](https://img.shields.io/badge/Ruby-badge?style=for-the-badge&logo=rubyonrails&logoColor=crimson&color=black
+![RUBY](https://img.shields.io/badge/Ruby_on_rails-badge?style=for-the-badge&logo=rubyonrails&logoColor=crimson&color=black
 )<br>
 ![PYTHON](https://img.shields.io/badge/python-PYTHON?style=for-the-badge&logo=Python&logoColor=midnightblue&color=black
 )<br>
